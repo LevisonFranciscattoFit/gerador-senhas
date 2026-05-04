@@ -6,7 +6,7 @@ import os
 # Ajusta o caminho para importar o app corretamente
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from app import gerar_senha
+from main import gerar_senha
 
 class TestGeradorSenha(unittest.TestCase):
 
