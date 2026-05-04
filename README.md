@@ -28,27 +28,3 @@ Gerar senhas aleatórias e seguras, garantindo que cada senha contenha:
    ```bash
    git clone [https://github.com/LevisonFranciscattoFit/gerador-senhas.git](https://github.com/LevisonFranciscattoFit/gerador-senhas.git)
    cd gerador-senhas
-Instale as dependências:
-
-Bash
-pip install -r requirements.txt
-Execute o programa:
-
-Bash
-python main.py
-🧪 Como Executar os Testes
-Para executar os testes automatizados que validam o tamanho e a complexidade da senha, execute no terminal:
-
-Bash
-pytest
-💡 Aprendizados
-Criação de funções em Python e utilização de bibliotecas nativas.
-
-Validação de entrada do utilizador.
-
-Escrita de testes automatizados com Pytest.
-
-Organização de projeto e documentação no GitHub.
-
-👤 Autor
-Lévison Franciscatto
