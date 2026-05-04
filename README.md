@@ -2,6 +2,10 @@
 
 Este é um projeto desenvolvido em Python com o objetivo de gerar senhas seguras de forma simples e prática. O projeto foi criado como parte de um estudo de desenvolvimento, versionamento com GitHub, testes automatizados e boas práticas de documentação.
 
+## 🤖 Storytelling e o Uso de Inteligência Artificial
+
+O projeto nasceu da necessidade de criar uma ferramenta prática para a geração de senhas seguras e aleatórias, aplicando os conceitos de TDD (Test-Driven Development). Durante a construção, utilizamos a **Cursor IDE** como ferramenta de IA para acelerar o desenvolvimento. A inteligência artificial atuou como copiloto no processo, permitindo a prototipagem rápida das funções e auxiliando na estrutura inicial dos testes e na organização do código.
+
 ## 🎯 Objetivo
 
 Gerar senhas aleatórias e seguras, garantindo que cada senha contenha:
@@ -15,6 +19,7 @@ Gerar senhas aleatórias e seguras, garantindo que cada senha contenha:
 - Python 3.12+
 - Pytest (testes automatizados)
 - Git e GitHub
+- Cursor IDE (Assistente de IA)
 
 ## ⚙️ Funcionalidades
 
